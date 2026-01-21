@@ -56,5 +56,5 @@ Run the program
 python detecthand-py
 press q t exit
 
-git clone https://github.com/<your-username>/hand-gesture-mouse.git
+git clone https://github.com/mohamedaminehmm/hand-detection-with-mouse-control.git
 cd hand-gesture-mouse
